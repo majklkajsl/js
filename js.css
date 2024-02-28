@@ -1,0 +1,17 @@
+
+
+.Page{
+    border: 1px solid salmon
+}
+
+button{
+    font-size:100px ;
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
